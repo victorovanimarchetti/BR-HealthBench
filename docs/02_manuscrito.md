@@ -223,7 +223,7 @@ of terms, which fails criterion (1), and its cohort with a published comparator 
 
 ## 5. Data and code availability
 
-Code: `src/` (task definitions, baselines, tables). Raw data: public and downloadable without
+Code: https://github.com/victorovanimarchetti/BR-HealthBench (`src/`: task definitions, baselines, tables). Raw data: public and downloadable without
 registration from ftp.datasus.gov.br (SIH/SUS, SINASC, SINAN) and from the Ministry of Health
 open-data portal (SIVEP-Gripe, version of 23 March 2026); file names, sizes, dates and SHA-256
 hashes are in `docs/manifesto_dados.csv`. `src/baixa_dados.py` downloads every file from its

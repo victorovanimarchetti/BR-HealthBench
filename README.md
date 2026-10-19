@@ -11,8 +11,9 @@ arquivos vêm de fontes abertas sem cadastro; `src/baixa_dados.py` baixa e confe
 cada um (130 de 130 conferem; URLs testadas em 19/10/2026). Manuscrito em `docs/02_manuscrito.md`.
 A tarefa FAPESP COVID-19 Data Sharing/BR foi descartada: exige cadastro e aceite de termos.
 
-**Próximo passo bloqueante:** publicar este repositório (git local pronto) num repositório
-público; depende de autorização do autor.
+Repositório público: https://github.com/victorovanimarchetti/BR-HealthBench (publicado em 19/10/2026).
+
+**Próximo passo bloqueante:** nenhum (falta só definir a licença do código).
 
 ## Tarefas
 
