@@ -1,0 +1,9 @@
+task,comparator,comparator_design,comparator_auroc,cv_logistica,cv_xgboost,temporal_logistica,temporal_xgboost,temporal_xgb_auprc,temporal_xgb_brier,temporal_xgb_slope,cv_escore_coura_vital,temporal_escore_coura_vital
+sivep_covid_obito,Baqui 2021 (Sci Rep),"XGBoost, 80/20 + CV",0.813,0.779 (0.775-0.783),0.791 (0.786-0.795),0.773 (0.769-0.776),0.782 (0.779-0.785),0.608,0.174,1.0,,
+sivep_covid_obito_pediatrico,Oliveira 2022 (J Pediatr),"Fine-Gray score, temporal",0.75,0.791 (0.772-0.810),0.802 (0.783-0.820),0.779 (0.761-0.798),0.789 (0.770-0.808),0.32,0.077,1.07,,
+sivep_influenza_obito_2024,Sardinha 2026 (Immunol Res),"logistic, apparent",0.81,0.817 (0.795-0.838),0.826 (0.808-0.845),0.802 (0.787-0.816),0.806 (0.792-0.820),0.346,0.099,0.91,,
+sinasc_baixo_peso,none direct (Almeida 2026 used at-birth predictors),-,,0.741 (0.738-0.744),0.753 (0.751-0.756),0.735 (0.733-0.738),0.748 (0.745-0.750),0.364,0.078,0.98,,
+sinasc_baixo_peso_ao_nascer,Almeida 2026 (Sao Paulo Med J),"logistic, 80/20, at-birth predictors",0.85,0.891 (0.889-0.892),0.897 (0.896-0.898),0.892 (0.890-0.893),0.898 (0.897-0.900),0.67,0.053,1.01,,
+sih_obito_idoso_cardiovascular,Cordeiro & Martins 2018 (Rev Saude Publica),"logistic model 1, apparent",0.72,0.718 (0.713-0.722),0.724 (0.720-0.728),0.718 (0.715-0.722),0.724 (0.720-0.727),0.255,0.097,1.0,,
+sinan_tb_abandono,Rodrigues 2024 (BMC Public Health),"LightGBM/LR, 1:1 undersampled",0.715,0.703 (0.699-0.707),0.713 (0.709-0.717),0.696 (0.692-0.700),0.704 (0.700-0.708),0.329,0.13,0.92,,
+sinan_lv_obito,Coura-Vital 2014 (PLoS NTD),"14-point score, 1/3 validation",0.78,0.778 (0.765-0.790),0.804 (0.786-0.822),0.768 (0.756-0.780),0.789 (0.778-0.799),0.313,0.076,0.93,0.773 (0.754-0.793),0.766 (0.755-0.776)

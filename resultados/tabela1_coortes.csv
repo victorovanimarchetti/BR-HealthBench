@@ -1,0 +1,9 @@
+task,records,events,event_rate_%,predictors,missing_cells_%,periods,published_cohort
+sivep_covid_obito,309316,107612,34.8,31,40.3,2020-02 to 2020-09,"231,112 / 37.7%"
+sivep_covid_obito_pediatrico,14505,1372,9.5,31,45.5,onda1_2020 to onda2_2021,"21,591 / 7.7%"
+sivep_influenza_obito_2024,16542,2317,14.0,33,34.7,2024-01 to 2025-06,"15,995 / 12.1%"
+sinasc_baixo_peso,2676548,257231,9.6,12,0.4,2019 to 2023,-
+sinasc_baixo_peso_ao_nascer,2676548,257231,9.6,15,0.3,2019 to 2023,"2,548,570 / 9.5%"
+sih_obito_idoso_cardiovascular,421919,50254,11.9,19,1.5,2011 to 2012,"385,784 / 13.0%"
+sinan_tb_abandono,317086,46441,14.6,17,19.4,2015 to 2022,"243,726 / 17%"
+sinan_lv_obito,33876,2957,8.7,16,4.2,2007 to 2019,"18,501 / 6.2%"

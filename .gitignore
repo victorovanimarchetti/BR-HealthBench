@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# dados brutos e coortes ficam fora do repositorio (BENCH_BR_DADOS)
+*.parquet
+*.dbc
+*.dbf
+*.csv.zip
+coortes/
+brutos/
+.env
